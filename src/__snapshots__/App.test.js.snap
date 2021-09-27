@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`if matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="BoxList"
+    >
+      <h2
+        class="BoxList-title"
+      >
+        Box Generator
+      </h2>
+      <form
+        class="NewBoxForm"
+      >
+        <label
+          for="color"
+        >
+          Color
+        </label>
+        <input
+          id="color"
+          name="color"
+          type="color"
+          value="#000000"
+        />
+        <label
+          for="height"
+        >
+          Height
+        </label>
+        <input
+          id="height"
+          name="height"
+          type="number"
+          value="200"
+        />
+        <label
+          for="width"
+        >
+          Width
+        </label>
+        <input
+          id="width"
+          name="width"
+          type="number"
+          value="200"
+        />
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root css-s3awaj-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Add box
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </form>
+      <div
+        class="BoxList-boxes"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

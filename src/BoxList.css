@@ -1,0 +1,13 @@
+.BoxList-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 50px;
+}
+
+.BoxList-title {
+  font-size: 50px;
+  margin: 20px auto 50px auto;
+}

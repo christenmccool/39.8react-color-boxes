@@ -1,0 +1,10 @@
+.Box {
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.Box-btn {
+  /* height: max-content; */
+  /* align-self: flex-start; */
+}
